@@ -8,4 +8,5 @@
     { "src": "/(.*).php", "dest": "/$1.php" },
     { "src": "/", "dest": "/beranda.php" }
   ]
-}
+} 
+ 
